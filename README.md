@@ -11,20 +11,22 @@ GitCraft visualizes Git repositories as majestic trees within Minecraft. Each re
 ## ✨ Features
 
 ### Tree Structure
-- **Trunk** represents the main/master branch
-  - Height grows with total commit count
-  - Thickness increases with repository age
-- **Branches** show actual git branches splitting from trunk
-  - Branch angle indicates creation time
-  - Length reflects commits on that branch
-- **Leaves** represent active files
-  - Density shows amount of code
+
+-   **Trunk** represents the main/master branch
+    -   Height grows with total commit count
+    -   Thickness increases with repository age
+-   **Branches** show actual git branches splitting from trunk
+    -   Branch angle indicates creation time
+    -   Length reflects commits on that branch
+-   **Leaves** represent active files
+    -   Density shows amount of code
 
 ### Real-time Visualization
-- **Commit Particles** - Glowing orbs travel up the tree as commits occur
-- **Contributor Colors** - Each developer has a unique particle color
-- **Dynamic Growth** - New leaves appear when files are added
-- **Branch Lifecycle** - Branches turn gray when deleted
+
+-   **Commit Particles** - Glowing orbs travel up the tree as commits occur
+-   **Contributor Colors** - Each developer has a unique particle color
+-   **Dynamic Growth** - New leaves appear when files are added
+-   **Branch Lifecycle** - Branches turn gray when deleted
 
 ## 🎯 Mission
 
@@ -32,7 +34,7 @@ To make code repository structure and development activity tangible and beautifu
 
 ## 👥 Target Audience
 
-- **Developers** who want to visualize their project's growth
-- **Team Leaders** monitoring repository activity
-- **Educators** teaching version control concepts
-- **Open Source Communities** showcasing project vitality
+-   **Developers** who want to visualize their project's growth
+-   **Team Leaders** monitoring repository activity
+-   **Educators** teaching version control concepts
+-   **Open Source Communities** showcasing project vitality
